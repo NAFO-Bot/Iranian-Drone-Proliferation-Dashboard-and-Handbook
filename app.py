@@ -1,11 +1,11 @@
 import streamlit as st
-import load_data
-import render_sidebar
-import render_globe
-import render_network
-import render_analysis
-import render_sources
-import render_threat_library
+from data import load_data
+from metrics import render_sidebar
+from globe import render_globe
+from network import render_network
+from analysis import render_analysis
+from sources import render_sources
+from threat library import threat_library
 
 # --------------------------------------------------
 # Page Configuration
