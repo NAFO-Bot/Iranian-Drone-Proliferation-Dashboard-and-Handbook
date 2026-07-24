@@ -1,11 +1,14 @@
 streamlit
 pandas
 numpy
-openpyxl
+plotly
 pydeck
 networkx
 pyvis
-plotly
+openpyxl
 matplotlib
 Pillow
 streamlit-pdf-viewer
+requests
+sgp4
+scipy
