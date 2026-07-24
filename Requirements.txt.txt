@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+openpyxl
+pydeck
+networkx
+pyvis
+plotly
+matplotlib
+Pillow
+streamlit-pdf-viewer
