@@ -1,12 +1,11 @@
 import streamlit as st
-
-from components.data import load_data
-from components.metrics import render_sidebar
-from components.globe import render_globe
-from components.network import render_network
-from components.analysis import render_analysis
-from components.sources import render_sources
-from components.threat_library import render_threat_library
+import load_data
+import render_sidebar
+import render_globe
+import render_network
+import render_analysis
+import render_sources
+import render_threat_library
 
 # --------------------------------------------------
 # Page Configuration
