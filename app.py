@@ -5,7 +5,7 @@ from globe import render_globe
 from network import render_network
 from analysis import render_analysis
 from sources import render_sources
-from threat library import threat_library
+from threat_library import threat_library
 
 # --------------------------------------------------
 # Page Configuration
